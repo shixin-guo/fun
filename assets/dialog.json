@@ -159,8 +159,25 @@
     }, {
         "id": "0014",
         "details": [
-            ["<img src='img/pic2.jpeg'>", "之前鼋头渚拍的樱花🌸", "<img src='img/pdd4.jpeg'>", "原来在上海时候公司外面的晚霞", "<img src='img/pdd2.JPG'>", "哈哈 其实拍的不怎么样但是我蛮喜欢的"]
-        ]
+            [
+                "<img src='img/pic2.JPG'>",
+                "之前鼋头渚拍的樱花🌸",
+                "<img src='img/pdd4.jpeg'>",
+                "原来在上海时候公司外面的晚霞",
+                "<img src='img/pdd2.JPG'>", 
+                "哈哈 其实拍的不怎么样但是我蛮喜欢的",
+                "欢迎指点"
+            ]
+        ],
+        "responses": [{
+            "content": "……"
+        },{
+            "content": "哈哈 那我就指点你一下吧",
+            "nextXianzhe":["0041"]
+        }, {
+            "content": "哈哈，还可以，打赏一下",
+            "nextXianzhe": ["0037"]
+        }]
     }, {
         "id": "0015",
         "details": [
