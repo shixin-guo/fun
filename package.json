@@ -7,7 +7,7 @@
   "homepage": "https://gzponline.github.io/fun",
   "license": "MIT",
   "scripts": {
-    "build": "npx gulp",
+    "build": "npx gulp"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
