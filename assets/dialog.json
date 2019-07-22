@@ -429,10 +429,11 @@
     }, {
         "id": "0039",
         "details": [
-            ["谢主隆恩！！！", "嘿嘿，圣诞节我会寄来自制明信片，打赏后可以发邮件告诉我你的收信地址", "<a href='mailto:me@zhangwenli.com'>me@zhangwenli.com</a>"]
+            ["谢主隆恩！！！", "嘿嘿，圣诞节我会寄来自制明信片，打赏后可以发邮件告诉我你的收信地址", "<a href='mailto:gzponline@163.com'>gzponline@163.com</a>"]
         ],
         "responses": [{
-            "content": "好哒！"
+            "content": "好哒！",
+            "nextXianzhe": ["0040"]
         }]
     },{
         "id": "0041",
